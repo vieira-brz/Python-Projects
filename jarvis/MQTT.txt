@@ -1,0 +1,6 @@
+Criar um servidor MQTT
+-> Porta
+-> Usuário
+-> Senha
+
+Instalar -> paho-mqtt
